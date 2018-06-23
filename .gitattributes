@@ -2,3 +2,5 @@
 * text=auto
 
 .idea/* linguist-vendored
+
+*.html/* linguist-vendored
