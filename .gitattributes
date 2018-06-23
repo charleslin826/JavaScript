@@ -2,4 +2,4 @@
 * text=auto
 
 .idea/* linguist-vendored
-index/* linguist-vendored
+*.html linguist-vendored=false
